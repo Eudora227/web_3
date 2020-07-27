@@ -1,0 +1,115 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.postCard{
+  margin: 0 auto;
+  display: flex;
+  width: 218px;
+  height: 252px;
+  border-radius: 5px;
+  margin-top: 10px;
+  overflow: hidden;
+  background-color: white;
+  position: relative;
+  flex-direction: column;
+  .postCard_top{
+    height: 130px;
+    width: 100%;
+    position: relative;
+    .postCard_top_float{
+      position: absolute;
+      top:5px;
+      left:0;
+      width: 48px;
+      font-size:12px;
+      color:#fff;
+      padding-left: 10px;
+      z-index: 10;
+      background: url("../images/images/layout_css_sprites.png") no-repeat -16px -57px;
+    }
+    .postCard_top_top{
+      width: 100%;
+      height: 130px;
+     // background-color: #9a6e3a;
+      z-index:1;
+      a{
+        display: block;
+        width: 100%;
+        height: 100%;
+        img{
+          width: 100%;
+          height: 100%;
+          transition: all 10s linear;
+          &:hover{
+            transform: scale(1.1, 1.1);
+          }
+
+
+        }
+      }
+
+    }
+  }
+  .postCard_bottom{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+
+  }
+  .postCard_bottom_top{
+    flex:4;
+  //  background-color: yellow;
+    color: #333;
+    font-size: 14px;
+  }
+  .postCard_bottom_center{
+    flex:2;
+    .postCard_bottom_center_span{
+      height: 13px;
+      width: 15px;
+    }
+    span{
+      display: inline-block;
+      width: 57px;
+      height: 10px;
+      overflow: hidden;
+      position: relative;
+      font-size: 2px;
+      text-align: center;
+      span{
+        position: absolute;
+        left:50%;
+        top:0;
+        transform: translate(-50%);
+      }
+    }
+    .star_gray{
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 10;
+      width: 57px;
+      height: 10px;
+      background: url("../images/images/layout_css_sprites.png") no-repeat -91px -58px;;
+    }
+    .star_yellow{
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 10;
+      width: 57px;
+      height: 10px;
+      background: url("../images/images/layout_css_sprites.png") no-repeat -10px -158px;;
+
+    }
+  }
+  .postCard_bottom_bottom{
+    flex:3;
+   // background-color: #0077aa;
+    padding-top:4px;
+  }
+}

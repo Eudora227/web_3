@@ -1,0 +1,107 @@
+{
+  "id": "1945514",
+  "name": "武川工会",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9864696",
+      "name": "学生",
+      "font_class": "xuesheng",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "10528800",
+      "name": "新建会议",
+      "font_class": "xinjianhuiyi",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "12137727",
+      "name": "加入会员",
+      "font_class": "jiaruhuiyuan",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "2368511",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "13218949",
+      "name": "地址 (1)",
+      "font_class": "dizhi",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "4255008",
+      "name": "奖章",
+      "font_class": "jiangzhang",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "5896890",
+      "name": "工匠坊",
+      "font_class": "gongjiangfang",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "6477990",
+      "name": "法律 (2)",
+      "font_class": "falv",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "8123471",
+      "name": "帮扶爱心",
+      "font_class": "bangfuaixin",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "8599213",
+      "name": "医疗",
+      "font_class": "yiliao",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "9097486",
+      "name": "组织架构",
+      "font_class": "zuzhijiagou",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "11606929",
+      "name": "支部主题党日活动情况",
+      "font_class": "zhibuzhutidangrihuodongqingkuang",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "13057244",
+      "name": "就业所",
+      "font_class": "jiuyesuo",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "13644777",
+      "name": "党员先锋",
+      "font_class": "dangyuanxianfeng",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    }
+  ]
+}
